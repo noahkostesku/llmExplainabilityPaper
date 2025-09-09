@@ -2,7 +2,7 @@
 
 ## Overview
 This repository supports the implementation of the paper titled _"Explainability in Credit Risk Modelling: A Comparative Study of Network-based
-and Non-network-based Approaches"_. The project explores how structured model explanations—derived from SHAP (for tabular/XGBoost models) and GNNExplainer (for GNNs)—can be translated into human-readable narratives using Large Language Models (LLMs) such as Gemma, DeepSeek, and Gemini.
+and Non-network-based Approaches"_. The paper explores how structured model explanations—derived from SHAP (for tabular/XGBoost models) and GNNExplainer (for GNNs)—can be translated into human-readable narratives using LLMs such as Gemma 3, DeepSeek R1, and Gemini 2.5.
 
 The primary goal is to evaluate and compare these LLM-generated explanations in terms of clarity, interpretability, and domain relevance across user groups.
 
