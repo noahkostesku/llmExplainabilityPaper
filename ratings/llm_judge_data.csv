@@ -1,0 +1,3529 @@
+pipeline,llm,metric,score
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,4
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,5
+Bimodal,DeepSeek R1 (ft),NFC,4
+Bimodal,DeepSeek R1 (ft),NDC,4
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,5
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,3
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,2
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,2
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,5
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,5
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,2
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,3
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,2
+Bimodal,DeepSeek R1 (ft),TFC,3
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,2
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,2
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,4
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,2
+Bimodal,DeepSeek R1 (ft),TFC,3
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,2
+Bimodal,DeepSeek R1 (ft),NDC,2
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,5
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,5
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,3
+Bimodal,DeepSeek R1 (ft),TDC,2
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,2
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,4
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,2
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,4
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,3
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,2
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,3
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,5
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,2
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,2
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,5
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,3
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,2
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,1
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,4
+Bimodal,DeepSeek R1 (ft),NDC,4
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,5
+Bimodal,DeepSeek R1 (ft),NFC,4
+Bimodal,DeepSeek R1 (ft),NDC,4
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,2
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,4
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,2
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,2
+Bimodal,DeepSeek R1 (ft),NDC,2
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,4
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,2
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,2
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,3
+Bimodal,DeepSeek R1 (ft),TDC,2
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,2
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,2
+Bimodal,DeepSeek R1 (ft),TFC,3
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,3
+Bimodal,DeepSeek R1 (ft),TFC,3
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,2
+Bimodal,DeepSeek R1 (ft),NDC,2
+Bimodal,DeepSeek R1 (ft),TFC,5
+Bimodal,DeepSeek R1 (ft),TDC,4
+Bimodal,DeepSeek R1 (ft),NFC,4
+Bimodal,DeepSeek R1 (ft),NDC,4
+Bimodal,DeepSeek R1 (ft),TFC,4
+Bimodal,DeepSeek R1 (ft),TDC,3
+Bimodal,DeepSeek R1 (ft),NFC,3
+Bimodal,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,5
+Network-based,DeepSeek R1 (ft),NDC,4
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,5
+Network-based,DeepSeek R1 (ft),NDC,4
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,5
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,5
+Network-based,DeepSeek R1 (ft),NDC,4
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,5
+Network-based,DeepSeek R1 (ft),NDC,4
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,4
+Network-based,DeepSeek R1 (ft),NDC,3
+Network-based,DeepSeek R1 (ft),TFC,1
+Network-based,DeepSeek R1 (ft),TDC,1
+Network-based,DeepSeek R1 (ft),NFC,3
+Network-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,4
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,4
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,5
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,4
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,5
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,5
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,5
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,4
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,4
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,4
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,5
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,4
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,4
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,5
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,3
+Tabular-based,DeepSeek R1 (ft),TDC,2
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,4
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,4
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,3
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,4
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,5
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,5
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,3
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,2
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,4
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,4
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,4
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,4
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,2
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,2
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,4
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,4
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,5
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,4
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,3
+Tabular-based,DeepSeek R1 (ft),TDC,2
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,5
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,4
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,4
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,2
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,4
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,4
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,5
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,3
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,5
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,4
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,2
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,3
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,5
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,4
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,5
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,4
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,3
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,2
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,4
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,5
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,4
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,3
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,4
+Tabular-based,DeepSeek R1 (ft),TDC,5
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Tabular-based,DeepSeek R1 (ft),TFC,3
+Tabular-based,DeepSeek R1 (ft),TDC,2
+Tabular-based,DeepSeek R1 (ft),NFC,2
+Tabular-based,DeepSeek R1 (ft),NDC,2
+Tabular-based,DeepSeek R1 (ft),TFC,5
+Tabular-based,DeepSeek R1 (ft),TDC,5
+Tabular-based,DeepSeek R1 (ft),NFC,1
+Tabular-based,DeepSeek R1 (ft),NDC,1
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,2
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,2
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,5
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,4
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,2
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,2
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,4
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,4
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,5
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,4
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,4
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,4
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,4
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,4
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,2
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,2
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,5
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,4
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,4
+Bimodal,Gemini 2.5,TFC,3
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,4
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,2
+Bimodal,Gemini 2.5,NFC,5
+Bimodal,Gemini 2.5,NDC,4
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,5
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,2
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,2
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,5
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,2
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,2
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,2
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,2
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,5
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,4
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,4
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,5
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,4
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,2
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,2
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,2
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,4
+Bimodal,Gemini 2.5,NDC,4
+Bimodal,Gemini 2.5,TFC,4
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,2
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,5
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,4
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Bimodal,Gemini 2.5,TFC,5
+Bimodal,Gemini 2.5,TDC,3
+Bimodal,Gemini 2.5,NFC,3
+Bimodal,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,5
+Network-based,Gemini 2.5,NDC,4
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,3
+Network-based,Gemini 2.5,NDC,2
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,3
+Network-based,Gemini 2.5,NDC,2
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,2
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,3
+Network-based,Gemini 2.5,NDC,2
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,5
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,3
+Network-based,Gemini 2.5,NDC,2
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,3
+Network-based,Gemini 2.5,NDC,2
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,2
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,5
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,3
+Network-based,Gemini 2.5,NDC,2
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,5
+Network-based,Gemini 2.5,NDC,4
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,5
+Network-based,Gemini 2.5,NDC,4
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,5
+Network-based,Gemini 2.5,NDC,4
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,5
+Network-based,Gemini 2.5,NDC,4
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,5
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,5
+Network-based,Gemini 2.5,NDC,4
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,2
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,2
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,5
+Network-based,Gemini 2.5,NDC,4
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,5
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,5
+Network-based,Gemini 2.5,NDC,4
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,3
+Network-based,Gemini 2.5,NDC,2
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,5
+Network-based,Gemini 2.5,NDC,4
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,3
+Network-based,Gemini 2.5,NDC,2
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,5
+Network-based,Gemini 2.5,NDC,4
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,3
+Network-based,Gemini 2.5,NDC,2
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,5
+Network-based,Gemini 2.5,NDC,4
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,5
+Network-based,Gemini 2.5,NDC,4
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,3
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,3
+Network-based,Gemini 2.5,NDC,2
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,5
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,2
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,3
+Network-based,Gemini 2.5,NDC,2
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,3
+Network-based,Gemini 2.5,NDC,2
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,5
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,5
+Network-based,Gemini 2.5,NDC,4
+Network-based,Gemini 2.5,TFC,1
+Network-based,Gemini 2.5,TDC,1
+Network-based,Gemini 2.5,NFC,4
+Network-based,Gemini 2.5,NDC,3
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,5
+Tabular-based,Gemini 2.5,TDC,5
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,3
+Tabular-based,Gemini 2.5,TDC,2
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,3
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,2
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,5
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,5
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,3
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,3
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,5
+Tabular-based,Gemini 2.5,TDC,5
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,5
+Tabular-based,Gemini 2.5,TDC,5
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,3
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,5
+Tabular-based,Gemini 2.5,TDC,5
+Tabular-based,Gemini 2.5,NFC,2
+Tabular-based,Gemini 2.5,NDC,3
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,5
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,5
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,5
+Tabular-based,Gemini 2.5,NFC,2
+Tabular-based,Gemini 2.5,NDC,3
+Tabular-based,Gemini 2.5,TFC,3
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,5
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,2
+Tabular-based,Gemini 2.5,NDC,2
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,2
+Tabular-based,Gemini 2.5,NDC,2
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,5
+Tabular-based,Gemini 2.5,TDC,5
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,3
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,5
+Tabular-based,Gemini 2.5,NFC,2
+Tabular-based,Gemini 2.5,NDC,3
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,2
+Tabular-based,Gemini 2.5,NDC,2
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,5
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,5
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,5
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,2
+Tabular-based,Gemini 2.5,NDC,3
+Tabular-based,Gemini 2.5,TFC,5
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,2
+Tabular-based,Gemini 2.5,NDC,3
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,3
+Tabular-based,Gemini 2.5,NDC,3
+Tabular-based,Gemini 2.5,TFC,3
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,3
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,3
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,5
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,2
+Tabular-based,Gemini 2.5,NDC,3
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,2
+Tabular-based,Gemini 2.5,NDC,2
+Tabular-based,Gemini 2.5,TFC,3
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,5
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,5
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,3
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,3
+Tabular-based,Gemini 2.5,TDC,2
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,5
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,5
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,5
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,2
+Tabular-based,Gemini 2.5,NDC,3
+Tabular-based,Gemini 2.5,TFC,3
+Tabular-based,Gemini 2.5,TDC,2
+Tabular-based,Gemini 2.5,NFC,2
+Tabular-based,Gemini 2.5,NDC,2
+Tabular-based,Gemini 2.5,TFC,3
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,3
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,5
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,5
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,2
+Tabular-based,Gemini 2.5,NDC,3
+Tabular-based,Gemini 2.5,TFC,3
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,3
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,5
+Tabular-based,Gemini 2.5,TDC,5
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,3
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,2
+Tabular-based,Gemini 2.5,NDC,2
+Tabular-based,Gemini 2.5,TFC,3
+Tabular-based,Gemini 2.5,TDC,5
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,5
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,5
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,2
+Tabular-based,Gemini 2.5,NDC,3
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,3
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,2
+Tabular-based,Gemini 2.5,NDC,2
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,2
+Tabular-based,Gemini 2.5,NDC,2
+Tabular-based,Gemini 2.5,TFC,5
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,5
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,5
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,5
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,4
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,3
+Tabular-based,Gemini 2.5,TDC,3
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Tabular-based,Gemini 2.5,TFC,4
+Tabular-based,Gemini 2.5,TDC,5
+Tabular-based,Gemini 2.5,NFC,1
+Tabular-based,Gemini 2.5,NDC,1
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,4
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,2
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,4
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,4
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,5
+Bimodal,Gemma 3 (ft),TDC,5
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,3
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,4
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,5
+Bimodal,Gemma 3 (ft),TDC,4
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,5
+Bimodal,Gemma 3 (ft),TDC,5
+Bimodal,Gemma 3 (ft),NFC,4
+Bimodal,Gemma 3 (ft),NDC,4
+Bimodal,Gemma 3 (ft),TFC,5
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,4
+Bimodal,Gemma 3 (ft),NDC,4
+Bimodal,Gemma 3 (ft),TFC,5
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,5
+Bimodal,Gemma 3 (ft),TDC,4
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,5
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,4
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,5
+Bimodal,Gemma 3 (ft),TDC,4
+Bimodal,Gemma 3 (ft),NFC,4
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,5
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,5
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,4
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,2
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,4
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,3
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,4
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,4
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,5
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,4
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,3
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,2
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,5
+Bimodal,Gemma 3 (ft),TDC,4
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,5
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,2
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,5
+Bimodal,Gemma 3 (ft),TDC,4
+Bimodal,Gemma 3 (ft),NFC,4
+Bimodal,Gemma 3 (ft),NDC,4
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,4
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,2
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,4
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,2
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,2
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,3
+Bimodal,Gemma 3 (ft),TDC,4
+Bimodal,Gemma 3 (ft),NFC,1
+Bimodal,Gemma 3 (ft),NDC,1
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,4
+Bimodal,Gemma 3 (ft),NFC,4
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,5
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,4
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,4
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,4
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,5
+Bimodal,Gemma 3 (ft),TDC,4
+Bimodal,Gemma 3 (ft),NFC,4
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,5
+Bimodal,Gemma 3 (ft),TDC,4
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,4
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,3
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,5
+Bimodal,Gemma 3 (ft),TDC,4
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,3
+Bimodal,Gemma 3 (ft),TDC,2
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,5
+Bimodal,Gemma 3 (ft),TDC,4
+Bimodal,Gemma 3 (ft),NFC,4
+Bimodal,Gemma 3 (ft),NDC,4
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Bimodal,Gemma 3 (ft),TFC,3
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,4
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,3
+Bimodal,Gemma 3 (ft),TFC,4
+Bimodal,Gemma 3 (ft),TDC,3
+Bimodal,Gemma 3 (ft),NFC,3
+Bimodal,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,5
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,2
+Network-based,Gemma 3 (ft),TDC,2
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,5
+Network-based,Gemma 3 (ft),NDC,4
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,5
+Network-based,Gemma 3 (ft),NDC,4
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,5
+Network-based,Gemma 3 (ft),NDC,4
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,5
+Network-based,Gemma 3 (ft),NDC,4
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,4
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,5
+Network-based,Gemma 3 (ft),NDC,4
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,5
+Network-based,Gemma 3 (ft),NDC,3
+Network-based,Gemma 3 (ft),TFC,1
+Network-based,Gemma 3 (ft),TDC,1
+Network-based,Gemma 3 (ft),NFC,3
+Network-based,Gemma 3 (ft),NDC,2
+Tabular-based,Gemma 3 (ft),TFC,3
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,5
+Tabular-based,Gemma 3 (ft),TDC,5
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,2
+Tabular-based,Gemma 3 (ft),NDC,2
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,5
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,5
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,3
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,5
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,5
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,5
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,3
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,5
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,2
+Tabular-based,Gemma 3 (ft),NDC,2
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,5
+Tabular-based,Gemma 3 (ft),TDC,5
+Tabular-based,Gemma 3 (ft),NFC,2
+Tabular-based,Gemma 3 (ft),NDC,3
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,5
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,2
+Tabular-based,Gemma 3 (ft),NDC,2
+Tabular-based,Gemma 3 (ft),TFC,5
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,3
+Tabular-based,Gemma 3 (ft),TDC,2
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,3
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,5
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,5
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,5
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,5
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,2
+Tabular-based,Gemma 3 (ft),NDC,3
+Tabular-based,Gemma 3 (ft),TFC,3
+Tabular-based,Gemma 3 (ft),TDC,2
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,3
+Tabular-based,Gemma 3 (ft),TDC,5
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,2
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,3
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,3
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,5
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,3
+Tabular-based,Gemma 3 (ft),TDC,2
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,3
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,5
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,3
+Tabular-based,Gemma 3 (ft),TDC,2
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,5
+Tabular-based,Gemma 3 (ft),TDC,5
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,3
+Tabular-based,Gemma 3 (ft),TDC,2
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,5
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,5
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,3
+Tabular-based,Gemma 3 (ft),TDC,2
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,5
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,5
+Tabular-based,Gemma 3 (ft),TDC,5
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,5
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,3
+Tabular-based,Gemma 3 (ft),TDC,2
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,3
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,2
+Tabular-based,Gemma 3 (ft),NDC,2
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,5
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,3
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,3
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,3
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,3
+Tabular-based,Gemma 3 (ft),TDC,5
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,3
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,5
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,3
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,3
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,5
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,5
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,3
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,5
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,5
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,4
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,3
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,5
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,2
+Tabular-based,Gemma 3 (ft),TDC,2
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
+Tabular-based,Gemma 3 (ft),TFC,4
+Tabular-based,Gemma 3 (ft),TDC,5
+Tabular-based,Gemma 3 (ft),NFC,1
+Tabular-based,Gemma 3 (ft),NDC,1
