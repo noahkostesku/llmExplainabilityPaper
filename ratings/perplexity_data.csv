@@ -1,0 +1,786 @@
+pipeline,llm,perplexity
+Tabular-based,Gemma 3 (ft),18.318584097975513
+Tabular-based,Gemma 3 (ft),19.623235967752436
+Tabular-based,Gemma 3 (ft),17.539361673921487
+Tabular-based,Gemma 3 (ft),19.518101659597978
+Tabular-based,Gemma 3 (ft),19.877178937482597
+Tabular-based,Gemma 3 (ft),20.076962075654684
+Tabular-based,Gemma 3 (ft),20.461882138181156
+Tabular-based,Gemma 3 (ft),19.261383300703915
+Tabular-based,Gemma 3 (ft),21.72744757249139
+Tabular-based,Gemma 3 (ft),19.22764590836273
+Tabular-based,Gemma 3 (ft),18.97277101037993
+Tabular-based,Gemma 3 (ft),18.31810368028817
+Tabular-based,Gemma 3 (ft),23.565372239837544
+Tabular-based,Gemma 3 (ft),25.473670457271236
+Tabular-based,Gemma 3 (ft),19.952483170120413
+Tabular-based,Gemma 3 (ft),16.304726423961174
+Tabular-based,Gemma 3 (ft),17.42198668696684
+Tabular-based,Gemma 3 (ft),23.496120387124876
+Tabular-based,Gemma 3 (ft),6.609900757488854
+Tabular-based,Gemma 3 (ft),20.016949880238297
+Tabular-based,Gemma 3 (ft),20.15994816787397
+Tabular-based,Gemma 3 (ft),21.546498437982116
+Tabular-based,Gemma 3 (ft),23.450945240451887
+Tabular-based,Gemma 3 (ft),21.665766262162236
+Tabular-based,Gemma 3 (ft),16.234977602463523
+Tabular-based,Gemma 3 (ft),14.185793294640273
+Tabular-based,Gemma 3 (ft),14.700934065406374
+Tabular-based,Gemma 3 (ft),21.200407534436422
+Tabular-based,Gemma 3 (ft),17.979408878151276
+Tabular-based,Gemma 3 (ft),18.804551826656052
+Tabular-based,Gemma 3 (ft),21.169763620264415
+Tabular-based,Gemma 3 (ft),19.911438866588107
+Tabular-based,Gemma 3 (ft),19.267978931781848
+Tabular-based,Gemma 3 (ft),21.880949013509767
+Tabular-based,Gemma 3 (ft),21.70927258102187
+Tabular-based,Gemma 3 (ft),21.581669915096946
+Tabular-based,Gemma 3 (ft),18.454847482264924
+Tabular-based,Gemma 3 (ft),17.241444107913217
+Tabular-based,Gemma 3 (ft),26.18922214475699
+Tabular-based,Gemma 3 (ft),19.96839706387146
+Tabular-based,Gemma 3 (ft),17.249564613838253
+Tabular-based,Gemma 3 (ft),18.173852457358834
+Tabular-based,Gemma 3 (ft),20.26285285134534
+Tabular-based,Gemma 3 (ft),18.64736254584812
+Tabular-based,Gemma 3 (ft),20.442435954944806
+Tabular-based,Gemma 3 (ft),16.55208568897609
+Tabular-based,Gemma 3 (ft),16.90926247898667
+Tabular-based,Gemma 3 (ft),21.10191116939266
+Tabular-based,Gemma 3 (ft),18.723921686662003
+Tabular-based,Gemma 3 (ft),16.22763650631091
+Tabular-based,Gemma 3 (ft),18.1508675249442
+Tabular-based,Gemma 3 (ft),16.704248684133
+Tabular-based,Gemma 3 (ft),18.094964542774754
+Tabular-based,Gemma 3 (ft),22.366812548768486
+Tabular-based,Gemma 3 (ft),20.58900399922257
+Tabular-based,Gemma 3 (ft),20.29408541930376
+Tabular-based,Gemma 3 (ft),22.64642564540855
+Tabular-based,Gemma 3 (ft),18.370079177700887
+Tabular-based,Gemma 3 (ft),16.820124324567534
+Tabular-based,Gemma 3 (ft),17.78087642836488
+Tabular-based,Gemma 3 (ft),20.650549082954115
+Tabular-based,Gemma 3 (ft),24.15204000531226
+Tabular-based,Gemma 3 (ft),19.309911164563616
+Tabular-based,Gemma 3 (ft),18.23418084554203
+Tabular-based,Gemma 3 (ft),19.387734374344003
+Tabular-based,Gemma 3 (ft),22.40751643417606
+Tabular-based,Gemma 3 (ft),15.959813247776012
+Tabular-based,Gemma 3 (ft),21.91132678440985
+Tabular-based,Gemma 3 (ft),20.753657021429866
+Tabular-based,Gemma 3 (ft),20.114318848926963
+Tabular-based,Gemma 3 (ft),17.22075924898731
+Tabular-based,Gemma 3 (ft),20.87045678645703
+Tabular-based,Gemma 3 (ft),5.522780776951941
+Tabular-based,Gemma 3 (ft),15.805641237487503
+Tabular-based,Gemma 3 (ft),17.489661514582888
+Tabular-based,Gemma 3 (ft),19.722460588344244
+Tabular-based,Gemma 3 (ft),19.67445790367507
+Tabular-based,Gemma 3 (ft),18.263523075172007
+Tabular-based,Gemma 3 (ft),29.322091204799452
+Tabular-based,Gemma 3 (ft),26.048276153804885
+Tabular-based,Gemma 3 (ft),24.117382683990396
+Tabular-based,Gemma 3 (ft),18.507758127869725
+Tabular-based,Gemma 3 (ft),29.611678036907342
+Tabular-based,Gemma 3 (ft),16.854872720363876
+Tabular-based,Gemma 3 (ft),17.251004089736906
+Tabular-based,Gemma 3 (ft),17.60681238344186
+Tabular-based,Gemma 3 (ft),16.457338297272052
+Tabular-based,Gemma 3 (ft),19.415187713940746
+Tabular-based,Gemma 3 (ft),18.14963855540326
+Tabular-based,Gemma 3 (ft),21.121204142640156
+Tabular-based,Gemma 3 (ft),16.710139992958172
+Tabular-based,Gemma 3 (ft),18.700352530188326
+Tabular-based,Gemma 3 (ft),20.46452157304056
+Tabular-based,Gemma 3 (ft),21.46111504018305
+Tabular-based,Gemma 3 (ft),21.61534754515808
+Tabular-based,Gemma 3 (ft),20.119863358139572
+Tabular-based,Gemma 3 (ft),24.39740085920822
+Tabular-based,Gemma 3 (ft),23.61772658797826
+Tabular-based,Gemma 3 (ft),21.6046978840827
+Tabular-based,Gemma 3 (ft),17.199037125624777
+Network-based,Gemma 3 (ft),18.84493186048892
+Network-based,Gemma 3 (ft),26.25179293968488
+Network-based,Gemma 3 (ft),20.932818240900215
+Network-based,Gemma 3 (ft),20.93454012832531
+Network-based,Gemma 3 (ft),20.771606435196258
+Network-based,Gemma 3 (ft),17.890484853820286
+Network-based,Gemma 3 (ft),18.167713655939963
+Network-based,Gemma 3 (ft),31.495587598852474
+Network-based,Gemma 3 (ft),17.024912222602765
+Network-based,Gemma 3 (ft),25.414426667122545
+Network-based,Gemma 3 (ft),22.974718305954685
+Network-based,Gemma 3 (ft),17.932373359763677
+Network-based,Gemma 3 (ft),20.479632911719058
+Network-based,Gemma 3 (ft),20.634490032889943
+Network-based,Gemma 3 (ft),20.768605535832425
+Network-based,Gemma 3 (ft),27.253104373930316
+Network-based,Gemma 3 (ft),22.881127468789053
+Network-based,Gemma 3 (ft),19.324713582063602
+Network-based,Gemma 3 (ft),16.7896501535696
+Network-based,Gemma 3 (ft),21.380973344829176
+Network-based,Gemma 3 (ft),18.92728341997318
+Network-based,Gemma 3 (ft),19.836800317769956
+Network-based,Gemma 3 (ft),22.447625392559612
+Network-based,Gemma 3 (ft),22.101920411362798
+Network-based,Gemma 3 (ft),19.398447424821903
+Network-based,Gemma 3 (ft),23.454065304692055
+Network-based,Gemma 3 (ft),21.22002328467998
+Network-based,Gemma 3 (ft),19.374495731539934
+Network-based,Gemma 3 (ft),22.962106856511436
+Network-based,Gemma 3 (ft),18.768132982849057
+Network-based,Gemma 3 (ft),17.883068819009043
+Network-based,Gemma 3 (ft),19.31984420476471
+Network-based,Gemma 3 (ft),20.69508555552464
+Network-based,Gemma 3 (ft),21.659976486631862
+Network-based,Gemma 3 (ft),25.034667737925126
+Network-based,Gemma 3 (ft),18.17599307755154
+Network-based,Gemma 3 (ft),24.851178315303855
+Network-based,Gemma 3 (ft),21.737312964060582
+Network-based,Gemma 3 (ft),18.360201077513345
+Network-based,Gemma 3 (ft),21.868546920272877
+Network-based,Gemma 3 (ft),25.775783440496625
+Network-based,Gemma 3 (ft),21.089799787242846
+Network-based,Gemma 3 (ft),19.313240028928686
+Network-based,Gemma 3 (ft),18.4446511498517
+Network-based,Gemma 3 (ft),13.777076743070513
+Network-based,Gemma 3 (ft),18.47996643894213
+Network-based,Gemma 3 (ft),20.740988914285058
+Network-based,Gemma 3 (ft),16.491628178679147
+Network-based,Gemma 3 (ft),22.836797171976773
+Network-based,Gemma 3 (ft),19.512913721158935
+Network-based,Gemma 3 (ft),19.383403672969088
+Network-based,Gemma 3 (ft),18.504096037704446
+Network-based,Gemma 3 (ft),20.979769107906073
+Network-based,Gemma 3 (ft),22.379908070216544
+Network-based,Gemma 3 (ft),21.137097713548435
+Network-based,Gemma 3 (ft),23.559692699153008
+Network-based,Gemma 3 (ft),25.59775967930143
+Network-based,Gemma 3 (ft),22.518462695066567
+Network-based,Gemma 3 (ft),21.27556036763169
+Network-based,Gemma 3 (ft),16.317824275816097
+Network-based,Gemma 3 (ft),17.325497993287097
+Network-based,Gemma 3 (ft),19.792846174273176
+Network-based,Gemma 3 (ft),16.88643149575089
+Network-based,Gemma 3 (ft),19.75308155683144
+Network-based,Gemma 3 (ft),17.66808476730494
+Network-based,Gemma 3 (ft),19.780368400954565
+Network-based,Gemma 3 (ft),20.039177793997556
+Network-based,Gemma 3 (ft),18.884394544781976
+Network-based,Gemma 3 (ft),22.171666782962674
+Network-based,Gemma 3 (ft),19.374731314199096
+Network-based,Gemma 3 (ft),25.019285080122724
+Network-based,Gemma 3 (ft),18.51583052111613
+Network-based,Gemma 3 (ft),22.516830632969288
+Network-based,Gemma 3 (ft),25.66194573547036
+Network-based,Gemma 3 (ft),23.813821595687752
+Network-based,Gemma 3 (ft),18.79931151551475
+Network-based,Gemma 3 (ft),17.557917364929395
+Network-based,Gemma 3 (ft),15.574267176263454
+Network-based,Gemma 3 (ft),25.751293270092223
+Network-based,Gemma 3 (ft),21.827859296019497
+Network-based,Gemma 3 (ft),22.418989434940848
+Network-based,Gemma 3 (ft),23.174136304569444
+Network-based,Gemma 3 (ft),20.385214259846332
+Network-based,Gemma 3 (ft),23.478492185468912
+Network-based,Gemma 3 (ft),24.81813297745699
+Network-based,Gemma 3 (ft),21.086335641910825
+Network-based,Gemma 3 (ft),20.349042656641494
+Network-based,Gemma 3 (ft),18.618588818547803
+Network-based,Gemma 3 (ft),23.45289662986039
+Network-based,Gemma 3 (ft),20.67053328272686
+Network-based,Gemma 3 (ft),20.302176982270648
+Network-based,Gemma 3 (ft),19.734360745670497
+Network-based,Gemma 3 (ft),18.511676925625526
+Network-based,Gemma 3 (ft),21.310528375832885
+Network-based,Gemma 3 (ft),16.6960425551949
+Network-based,Gemma 3 (ft),22.287704062935163
+Network-based,Gemma 3 (ft),18.945785157410857
+Bimodal,Gemma 3 (ft),18.794686552015445
+Bimodal,Gemma 3 (ft),22.939015692778703
+Bimodal,Gemma 3 (ft),18.38720767195108
+Bimodal,Gemma 3 (ft),22.915494276699572
+Bimodal,Gemma 3 (ft),17.47042819271093
+Bimodal,Gemma 3 (ft),17.495462752095587
+Bimodal,Gemma 3 (ft),26.83684745905273
+Bimodal,Gemma 3 (ft),23.27811451608137
+Bimodal,Gemma 3 (ft),20.06861576995605
+Bimodal,Gemma 3 (ft),21.43672722902992
+Bimodal,Gemma 3 (ft),21.159605913617956
+Bimodal,Gemma 3 (ft),21.493912722391375
+Bimodal,Gemma 3 (ft),27.839040794322926
+Bimodal,Gemma 3 (ft),21.835234846743983
+Bimodal,Gemma 3 (ft),18.97920898757699
+Bimodal,Gemma 3 (ft),18.276311961157152
+Bimodal,Gemma 3 (ft),18.623414655867904
+Bimodal,Gemma 3 (ft),22.655028409471665
+Bimodal,Gemma 3 (ft),21.30187748569888
+Bimodal,Gemma 3 (ft),21.579174505903804
+Bimodal,Gemma 3 (ft),18.76513966627627
+Bimodal,Gemma 3 (ft),21.546370011226305
+Bimodal,Gemma 3 (ft),24.177539671025347
+Bimodal,Gemma 3 (ft),20.0920986030494
+Bimodal,Gemma 3 (ft),20.718876613795548
+Bimodal,Gemma 3 (ft),17.035115685152416
+Bimodal,Gemma 3 (ft),23.628884045082494
+Bimodal,Gemma 3 (ft),18.913407701776126
+Bimodal,Gemma 3 (ft),22.067884542394943
+Bimodal,Gemma 3 (ft),18.16219613685692
+Bimodal,Gemma 3 (ft),18.7548434408543
+Bimodal,Gemma 3 (ft),20.428506347134153
+Bimodal,Gemma 3 (ft),19.23291849337146
+Bimodal,Gemma 3 (ft),21.078117487004455
+Bimodal,Gemma 3 (ft),21.439073266943243
+Bimodal,Gemma 3 (ft),22.184685073379242
+Bimodal,Gemma 3 (ft),20.81659258435448
+Bimodal,Gemma 3 (ft),18.234793834661254
+Bimodal,Gemma 3 (ft),22.028679934048135
+Bimodal,Gemma 3 (ft),15.812086444318838
+Bimodal,Gemma 3 (ft),20.688415736972743
+Bimodal,Gemma 3 (ft),18.26573522564967
+Bimodal,Gemma 3 (ft),15.659711095614098
+Bimodal,Gemma 3 (ft),22.404241801751976
+Bimodal,Gemma 3 (ft),23.254090153455653
+Bimodal,Gemma 3 (ft),23.415010581355627
+Bimodal,Gemma 3 (ft),20.462130942829926
+Bimodal,Gemma 3 (ft),18.810744358666444
+Bimodal,Gemma 3 (ft),16.456082749899952
+Bimodal,Gemma 3 (ft),18.63814851857886
+Bimodal,Gemma 3 (ft),20.833235419022248
+Bimodal,Gemma 3 (ft),24.58095040886678
+Bimodal,Gemma 3 (ft),23.26126546426907
+Bimodal,Gemma 3 (ft),16.2215943002698
+Bimodal,Gemma 3 (ft),21.89272655554956
+Bimodal,Gemma 3 (ft),16.390285226735784
+Bimodal,Gemma 3 (ft),21.525975287484204
+Bimodal,Gemma 3 (ft),22.933437901751176
+Bimodal,Gemma 3 (ft),17.4896364954393
+Bimodal,Gemma 3 (ft),19.413137201159437
+Bimodal,Gemma 3 (ft),18.959793117647344
+Bimodal,Gemma 3 (ft),24.862094530140638
+Bimodal,Gemma 3 (ft),21.744134308453024
+Bimodal,Gemma 3 (ft),33.47215220578523
+Bimodal,Gemma 3 (ft),17.729346348708653
+Bimodal,Gemma 3 (ft),20.704309430087353
+Bimodal,Gemma 3 (ft),18.297767371130817
+Bimodal,Gemma 3 (ft),20.149155644847504
+Bimodal,Gemma 3 (ft),20.88236752371689
+Bimodal,Gemma 3 (ft),24.04876759237461
+Bimodal,Gemma 3 (ft),18.94581677662748
+Bimodal,Gemma 3 (ft),21.44820430234046
+Bimodal,Gemma 3 (ft),19.529045053247838
+Bimodal,Gemma 3 (ft),21.273592332978495
+Bimodal,Gemma 3 (ft),20.220779580014657
+Bimodal,Gemma 3 (ft),26.347729213803166
+Bimodal,Gemma 3 (ft),19.14643866486722
+Bimodal,Gemma 3 (ft),25.14673601612144
+Bimodal,Gemma 3 (ft),21.036909216351834
+Bimodal,Gemma 3 (ft),22.576935133794777
+Bimodal,Gemma 3 (ft),23.775023735409665
+Bimodal,Gemma 3 (ft),17.283564178311853
+Bimodal,Gemma 3 (ft),22.02694157522722
+Bimodal,Gemma 3 (ft),20.399454797825374
+Bimodal,Gemma 3 (ft),16.258986061332944
+Bimodal,Gemma 3 (ft),23.406286644473955
+Bimodal,Gemma 3 (ft),18.137344787150667
+Bimodal,Gemma 3 (ft),21.333668849999622
+Bimodal,Gemma 3 (ft),23.819937217965062
+Bimodal,Gemma 3 (ft),26.570285393318198
+Bimodal,Gemma 3 (ft),22.375042362505106
+Bimodal,Gemma 3 (ft),18.22889521291067
+Bimodal,Gemma 3 (ft),21.630591818987916
+Bimodal,Gemma 3 (ft),18.21166669802827
+Bimodal,Gemma 3 (ft),20.779130397283733
+Bimodal,Gemma 3 (ft),19.780613634855808
+Bimodal,Gemma 3 (ft),22.26614577074161
+Tabular-based,DeepSeek R1 (ft),15.998520087804911
+Tabular-based,DeepSeek R1 (ft),14.020319890315353
+Tabular-based,DeepSeek R1 (ft),12.380177340969674
+Tabular-based,DeepSeek R1 (ft),15.140985210091163
+Tabular-based,DeepSeek R1 (ft),14.109797595484563
+Tabular-based,DeepSeek R1 (ft),16.41745876412393
+Tabular-based,DeepSeek R1 (ft),18.155212859060597
+Tabular-based,DeepSeek R1 (ft),15.996388011350636
+Tabular-based,DeepSeek R1 (ft),19.748433825586574
+Tabular-based,DeepSeek R1 (ft),19.808084912242293
+Tabular-based,DeepSeek R1 (ft),18.326941013487957
+Tabular-based,DeepSeek R1 (ft),16.928039447024474
+Tabular-based,DeepSeek R1 (ft),14.490657249694355
+Tabular-based,DeepSeek R1 (ft),17.16323545820733
+Tabular-based,DeepSeek R1 (ft),15.33544647755083
+Tabular-based,DeepSeek R1 (ft),17.552149820165607
+Tabular-based,DeepSeek R1 (ft),18.564923124964082
+Tabular-based,DeepSeek R1 (ft),15.877924867393759
+Tabular-based,DeepSeek R1 (ft),19.06546075778768
+Tabular-based,DeepSeek R1 (ft),16.60259267500642
+Tabular-based,DeepSeek R1 (ft),17.322003756057207
+Tabular-based,DeepSeek R1 (ft),15.396807532735819
+Tabular-based,DeepSeek R1 (ft),15.029333420444527
+Tabular-based,DeepSeek R1 (ft),15.22832480017292
+Tabular-based,DeepSeek R1 (ft),14.986245538218947
+Tabular-based,DeepSeek R1 (ft),14.650608335480824
+Tabular-based,DeepSeek R1 (ft),16.211889705368634
+Tabular-based,DeepSeek R1 (ft),17.85019218076617
+Tabular-based,DeepSeek R1 (ft),14.289335267081812
+Tabular-based,DeepSeek R1 (ft),15.949287963980323
+Tabular-based,DeepSeek R1 (ft),14.978469136891906
+Tabular-based,DeepSeek R1 (ft),13.415445577896161
+Tabular-based,DeepSeek R1 (ft),13.780539263564751
+Tabular-based,DeepSeek R1 (ft),13.338341276415496
+Tabular-based,DeepSeek R1 (ft),17.796454165090548
+Tabular-based,DeepSeek R1 (ft),14.177671680064023
+Tabular-based,DeepSeek R1 (ft),15.453358329856304
+Tabular-based,DeepSeek R1 (ft),16.99693181761614
+Tabular-based,DeepSeek R1 (ft),15.223239017107202
+Tabular-based,DeepSeek R1 (ft),15.554377164599975
+Tabular-based,DeepSeek R1 (ft),13.883724815284404
+Tabular-based,DeepSeek R1 (ft),14.348696412778933
+Tabular-based,DeepSeek R1 (ft),16.576701416881093
+Tabular-based,DeepSeek R1 (ft),21.224956624660255
+Tabular-based,DeepSeek R1 (ft),14.903136631188701
+Tabular-based,DeepSeek R1 (ft),17.098368659516094
+Tabular-based,DeepSeek R1 (ft),16.403694286196032
+Tabular-based,DeepSeek R1 (ft),14.21281876198963
+Tabular-based,DeepSeek R1 (ft),13.463643661176873
+Tabular-based,DeepSeek R1 (ft),17.43049974935905
+Tabular-based,DeepSeek R1 (ft),17.038625172304126
+Tabular-based,DeepSeek R1 (ft),18.07101085106501
+Tabular-based,DeepSeek R1 (ft),15.41865009354683
+Tabular-based,DeepSeek R1 (ft),19.92641734604189
+Tabular-based,DeepSeek R1 (ft),17.077822877288916
+Tabular-based,DeepSeek R1 (ft),14.630778164458997
+Tabular-based,DeepSeek R1 (ft),14.638021562528468
+Tabular-based,DeepSeek R1 (ft),19.25158588562972
+Tabular-based,DeepSeek R1 (ft),14.427062284957373
+Tabular-based,DeepSeek R1 (ft),13.575045443809643
+Tabular-based,DeepSeek R1 (ft),17.830447604195715
+Tabular-based,DeepSeek R1 (ft),19.49143220003691
+Tabular-based,DeepSeek R1 (ft),13.547430256056934
+Tabular-based,DeepSeek R1 (ft),16.785547616230534
+Tabular-based,DeepSeek R1 (ft),14.143461248442415
+Tabular-based,DeepSeek R1 (ft),16.112077547905265
+Tabular-based,DeepSeek R1 (ft),15.090045267329199
+Tabular-based,DeepSeek R1 (ft),15.925508995840413
+Tabular-based,DeepSeek R1 (ft),18.149677500344364
+Tabular-based,DeepSeek R1 (ft),18.393433795568374
+Tabular-based,DeepSeek R1 (ft),17.22552668331158
+Tabular-based,DeepSeek R1 (ft),16.336392385887343
+Tabular-based,DeepSeek R1 (ft),16.07695921271196
+Tabular-based,DeepSeek R1 (ft),15.53306817237002
+Tabular-based,DeepSeek R1 (ft),18.876805039867403
+Tabular-based,DeepSeek R1 (ft),14.184582534220837
+Tabular-based,DeepSeek R1 (ft),14.632368892628067
+Tabular-based,DeepSeek R1 (ft),13.86503182116281
+Tabular-based,DeepSeek R1 (ft),12.047587372547232
+Tabular-based,DeepSeek R1 (ft),15.379373365352636
+Tabular-based,DeepSeek R1 (ft),17.14259129501047
+Tabular-based,DeepSeek R1 (ft),18.343303289006755
+Tabular-based,DeepSeek R1 (ft),14.391316773863169
+Tabular-based,DeepSeek R1 (ft),14.423963466404638
+Tabular-based,DeepSeek R1 (ft),15.384430615054475
+Tabular-based,DeepSeek R1 (ft),13.897713880828336
+Tabular-based,DeepSeek R1 (ft),16.762500005944073
+Tabular-based,DeepSeek R1 (ft),16.181776754770215
+Tabular-based,DeepSeek R1 (ft),16.097337088682785
+Tabular-based,DeepSeek R1 (ft),14.9361502502001
+Tabular-based,DeepSeek R1 (ft),13.463245629194478
+Tabular-based,DeepSeek R1 (ft),14.438359174001599
+Tabular-based,DeepSeek R1 (ft),13.097939520857395
+Tabular-based,DeepSeek R1 (ft),14.403399516958896
+Tabular-based,DeepSeek R1 (ft),16.72903087615243
+Tabular-based,DeepSeek R1 (ft),15.303396374844265
+Tabular-based,DeepSeek R1 (ft),15.176085104536018
+Tabular-based,DeepSeek R1 (ft),18.761650303548613
+Tabular-based,DeepSeek R1 (ft),17.396824991527833
+Tabular-based,DeepSeek R1 (ft),19.8760415887206
+Network-based,DeepSeek R1 (ft),17.30270316258776
+Network-based,DeepSeek R1 (ft),25.368635639673954
+Network-based,DeepSeek R1 (ft),18.607117493654435
+Network-based,DeepSeek R1 (ft),20.19561993362307
+Network-based,DeepSeek R1 (ft),22.577586457245832
+Network-based,DeepSeek R1 (ft),18.455661496241966
+Network-based,DeepSeek R1 (ft),18.546001819756484
+Network-based,DeepSeek R1 (ft),22.70012073220403
+Network-based,DeepSeek R1 (ft),16.53506605387355
+Network-based,DeepSeek R1 (ft),19.78857123806968
+Network-based,DeepSeek R1 (ft),21.313058777346146
+Network-based,DeepSeek R1 (ft),19.919605823001618
+Network-based,DeepSeek R1 (ft),17.38811694645721
+Network-based,DeepSeek R1 (ft),21.434074828746155
+Network-based,DeepSeek R1 (ft),19.715634174113994
+Network-based,DeepSeek R1 (ft),25.49154465722423
+Network-based,DeepSeek R1 (ft),23.19714890027782
+Network-based,DeepSeek R1 (ft),21.132804515371195
+Network-based,DeepSeek R1 (ft),20.73396320675405
+Network-based,DeepSeek R1 (ft),21.246058955150545
+Network-based,DeepSeek R1 (ft),24.42123226088379
+Network-based,DeepSeek R1 (ft),19.540977592580507
+Network-based,DeepSeek R1 (ft),21.880317786817272
+Network-based,DeepSeek R1 (ft),17.87320970172492
+Network-based,DeepSeek R1 (ft),20.35769488022081
+Network-based,DeepSeek R1 (ft),16.63045522038759
+Network-based,DeepSeek R1 (ft),19.96833041226673
+Network-based,DeepSeek R1 (ft),17.621468771502567
+Network-based,DeepSeek R1 (ft),21.239019139008175
+Network-based,DeepSeek R1 (ft),20.38249272179427
+Network-based,DeepSeek R1 (ft),19.171877291897268
+Network-based,DeepSeek R1 (ft),16.367413516630528
+Network-based,DeepSeek R1 (ft),18.74306473039584
+Network-based,DeepSeek R1 (ft),18.675094301905926
+Network-based,DeepSeek R1 (ft),15.602181968198717
+Network-based,DeepSeek R1 (ft),17.91510901535773
+Network-based,DeepSeek R1 (ft),17.80636434077931
+Network-based,DeepSeek R1 (ft),19.717232433877637
+Network-based,DeepSeek R1 (ft),17.805761508715854
+Network-based,DeepSeek R1 (ft),22.990071668123647
+Network-based,DeepSeek R1 (ft),25.596038696375953
+Network-based,DeepSeek R1 (ft),23.206348163684385
+Network-based,DeepSeek R1 (ft),24.053951391378327
+Network-based,DeepSeek R1 (ft),24.82509246736767
+Network-based,DeepSeek R1 (ft),24.020986804028265
+Network-based,DeepSeek R1 (ft),19.036350509591635
+Network-based,DeepSeek R1 (ft),19.014935740488006
+Network-based,DeepSeek R1 (ft),17.959915309132924
+Network-based,DeepSeek R1 (ft),16.364471450295017
+Network-based,DeepSeek R1 (ft),16.68189337417997
+Network-based,DeepSeek R1 (ft),19.294066642072547
+Network-based,DeepSeek R1 (ft),19.575610134849907
+Network-based,DeepSeek R1 (ft),17.243322791296364
+Network-based,DeepSeek R1 (ft),19.604465275311938
+Network-based,DeepSeek R1 (ft),27.263710596191356
+Network-based,DeepSeek R1 (ft),19.272297629212424
+Network-based,DeepSeek R1 (ft),16.694100112586604
+Network-based,DeepSeek R1 (ft),16.086226354216727
+Network-based,DeepSeek R1 (ft),18.983118986858628
+Network-based,DeepSeek R1 (ft),22.667725208298776
+Network-based,DeepSeek R1 (ft),19.741951431843646
+Network-based,DeepSeek R1 (ft),15.3157628730632
+Network-based,DeepSeek R1 (ft),26.189727913408305
+Network-based,DeepSeek R1 (ft),17.276053732900607
+Network-based,DeepSeek R1 (ft),19.397679698269226
+Network-based,DeepSeek R1 (ft),18.681355551448398
+Network-based,DeepSeek R1 (ft),16.3191743256108
+Network-based,DeepSeek R1 (ft),21.43344116318655
+Network-based,DeepSeek R1 (ft),22.004009140396267
+Network-based,DeepSeek R1 (ft),21.767922077616486
+Network-based,DeepSeek R1 (ft),22.349807819009133
+Network-based,DeepSeek R1 (ft),18.55720097301508
+Network-based,DeepSeek R1 (ft),17.965911078213484
+Network-based,DeepSeek R1 (ft),25.23517415332767
+Network-based,DeepSeek R1 (ft),27.028553252006084
+Network-based,DeepSeek R1 (ft),15.411457658308969
+Network-based,DeepSeek R1 (ft),19.99110964114911
+Network-based,DeepSeek R1 (ft),18.072579200279854
+Network-based,DeepSeek R1 (ft),25.099649929336106
+Network-based,DeepSeek R1 (ft),24.371227703339056
+Network-based,DeepSeek R1 (ft),21.64766867307315
+Network-based,DeepSeek R1 (ft),20.145288849818026
+Network-based,DeepSeek R1 (ft),17.478239828616278
+Network-based,DeepSeek R1 (ft),19.991543374782186
+Network-based,DeepSeek R1 (ft),23.82756549140351
+Network-based,DeepSeek R1 (ft),17.53642217835912
+Network-based,DeepSeek R1 (ft),17.46341527809928
+Network-based,DeepSeek R1 (ft),18.08682983639089
+Network-based,DeepSeek R1 (ft),16.551296442843107
+Network-based,DeepSeek R1 (ft),21.19439850122867
+Network-based,DeepSeek R1 (ft),20.62354672386525
+Network-based,DeepSeek R1 (ft),16.37590321030619
+Network-based,DeepSeek R1 (ft),23.491252830173856
+Network-based,DeepSeek R1 (ft),24.294764808243528
+Network-based,DeepSeek R1 (ft),18.496694651687992
+Network-based,DeepSeek R1 (ft),20.649190248681325
+Network-based,DeepSeek R1 (ft),21.529183146758545
+Bimodal,DeepSeek R1 (ft),14.976880061519593
+Bimodal,DeepSeek R1 (ft),15.91224422758835
+Bimodal,DeepSeek R1 (ft),14.54698362705256
+Bimodal,DeepSeek R1 (ft),15.059477430248162
+Bimodal,DeepSeek R1 (ft),16.121134316127623
+Bimodal,DeepSeek R1 (ft),16.47624978727927
+Bimodal,DeepSeek R1 (ft),16.216234790001828
+Bimodal,DeepSeek R1 (ft),16.646493482419643
+Bimodal,DeepSeek R1 (ft),15.4815251693213
+Bimodal,DeepSeek R1 (ft),15.99164811545675
+Bimodal,DeepSeek R1 (ft),16.33253689045432
+Bimodal,DeepSeek R1 (ft),19.182603697285952
+Bimodal,DeepSeek R1 (ft),14.973606026586337
+Bimodal,DeepSeek R1 (ft),15.636550261893102
+Bimodal,DeepSeek R1 (ft),17.346101877150623
+Bimodal,DeepSeek R1 (ft),16.273478789221066
+Bimodal,DeepSeek R1 (ft),15.880533354721553
+Bimodal,DeepSeek R1 (ft),22.984223907313456
+Bimodal,DeepSeek R1 (ft),16.08675562814551
+Bimodal,DeepSeek R1 (ft),20.119278138844273
+Bimodal,DeepSeek R1 (ft),18.221191193097667
+Bimodal,DeepSeek R1 (ft),17.842133482152903
+Bimodal,DeepSeek R1 (ft),17.021973720128774
+Bimodal,DeepSeek R1 (ft),16.68054115606058
+Bimodal,DeepSeek R1 (ft),17.97853014147678
+Bimodal,DeepSeek R1 (ft),18.470989258672162
+Bimodal,DeepSeek R1 (ft),16.133819267717598
+Bimodal,DeepSeek R1 (ft),19.338646684316764
+Bimodal,DeepSeek R1 (ft),15.348329217052589
+Bimodal,DeepSeek R1 (ft),17.151176379760237
+Bimodal,DeepSeek R1 (ft),14.147727552644744
+Bimodal,DeepSeek R1 (ft),13.928218008229058
+Bimodal,DeepSeek R1 (ft),14.493117305931818
+Bimodal,DeepSeek R1 (ft),15.962438993787389
+Bimodal,DeepSeek R1 (ft),18.02054745933617
+Bimodal,DeepSeek R1 (ft),16.230101227382224
+Bimodal,DeepSeek R1 (ft),15.57336118312162
+Bimodal,DeepSeek R1 (ft),14.555112056514691
+Bimodal,DeepSeek R1 (ft),14.835329593626113
+Bimodal,DeepSeek R1 (ft),16.21343586537736
+Bimodal,DeepSeek R1 (ft),16.11201608532433
+Bimodal,DeepSeek R1 (ft),17.114682712469307
+Bimodal,DeepSeek R1 (ft),25.18027291977808
+Bimodal,DeepSeek R1 (ft),20.90703184135249
+Bimodal,DeepSeek R1 (ft),16.931207971426367
+Bimodal,DeepSeek R1 (ft),15.210207423196472
+Bimodal,DeepSeek R1 (ft),21.866576167018486
+Bimodal,DeepSeek R1 (ft),18.61747465849527
+Bimodal,DeepSeek R1 (ft),15.152371479320065
+Bimodal,DeepSeek R1 (ft),16.571461636473824
+Bimodal,DeepSeek R1 (ft),21.379821313456336
+Bimodal,DeepSeek R1 (ft),16.68752216533824
+Bimodal,DeepSeek R1 (ft),15.97145734324552
+Bimodal,DeepSeek R1 (ft),19.119433716383583
+Bimodal,DeepSeek R1 (ft),14.639501387276525
+Bimodal,DeepSeek R1 (ft),14.457077151886859
+Bimodal,DeepSeek R1 (ft),18.221208570188008
+Bimodal,DeepSeek R1 (ft),15.020155879999912
+Bimodal,DeepSeek R1 (ft),15.724232734094842
+Bimodal,DeepSeek R1 (ft),14.965475806800173
+Bimodal,DeepSeek R1 (ft),16.64283462025955
+Bimodal,DeepSeek R1 (ft),17.498186786059538
+Bimodal,DeepSeek R1 (ft),14.3577751856351
+Bimodal,DeepSeek R1 (ft),17.360748197728693
+Bimodal,DeepSeek R1 (ft),17.357482735315216
+Bimodal,DeepSeek R1 (ft),18.66895087717059
+Bimodal,DeepSeek R1 (ft),15.212575644157907
+Bimodal,DeepSeek R1 (ft),13.616328702609984
+Bimodal,DeepSeek R1 (ft),17.85712625385659
+Bimodal,DeepSeek R1 (ft),19.42657361829821
+Bimodal,DeepSeek R1 (ft),13.82938628055297
+Bimodal,DeepSeek R1 (ft),16.93591543488603
+Bimodal,DeepSeek R1 (ft),16.905578105587413
+Bimodal,DeepSeek R1 (ft),16.14721099836964
+Bimodal,DeepSeek R1 (ft),15.07286142520799
+Bimodal,DeepSeek R1 (ft),14.590554742650841
+Bimodal,DeepSeek R1 (ft),15.096958122536911
+Bimodal,DeepSeek R1 (ft),17.054841560291795
+Bimodal,DeepSeek R1 (ft),14.32308235941531
+Bimodal,DeepSeek R1 (ft),15.70674986331644
+Bimodal,DeepSeek R1 (ft),17.55388658091239
+Bimodal,DeepSeek R1 (ft),17.367922783304024
+Bimodal,DeepSeek R1 (ft),13.342199305721499
+Bimodal,DeepSeek R1 (ft),16.749141064650825
+Bimodal,DeepSeek R1 (ft),15.447685445048867
+Bimodal,DeepSeek R1 (ft),17.497177217119564
+Bimodal,DeepSeek R1 (ft),19.86481849961613
+Bimodal,DeepSeek R1 (ft),17.821437528284225
+Bimodal,DeepSeek R1 (ft),16.91479861030439
+Bimodal,DeepSeek R1 (ft),15.840601222454836
+Bimodal,DeepSeek R1 (ft),22.14555807697482
+Bimodal,DeepSeek R1 (ft),14.358740549308573
+Bimodal,DeepSeek R1 (ft),16.97639054664083
+Bimodal,DeepSeek R1 (ft),17.087385835524984
+Bimodal,DeepSeek R1 (ft),16.018813817298064
+Bimodal,DeepSeek R1 (ft),14.844036749625682
+Bimodal,DeepSeek R1 (ft),15.210787657630163
+Tabular-based,Gemini 2.5,28.935808592203387
+Tabular-based,Gemini 2.5,40.536712384754914
+Tabular-based,Gemini 2.5,29.40329124143217
+Tabular-based,Gemini 2.5,43.82612257033494
+Tabular-based,Gemini 2.5,30.979908471280957
+Tabular-based,Gemini 2.5,26.702422090067092
+Tabular-based,Gemini 2.5,37.31116074714751
+Tabular-based,Gemini 2.5,34.56455718705571
+Tabular-based,Gemini 2.5,30.676663127184245
+Tabular-based,Gemini 2.5,30.71013509145118
+Tabular-based,Gemini 2.5,35.02622373941827
+Tabular-based,Gemini 2.5,51.224724446592006
+Tabular-based,Gemini 2.5,31.74225485863643
+Tabular-based,Gemini 2.5,29.41145936467927
+Tabular-based,Gemini 2.5,31.886212308774176
+Tabular-based,Gemini 2.5,31.046773804664497
+Tabular-based,Gemini 2.5,38.69142318498896
+Tabular-based,Gemini 2.5,32.45910358081118
+Tabular-based,Gemini 2.5,27.942263187520084
+Tabular-based,Gemini 2.5,33.79568229850884
+Tabular-based,Gemini 2.5,38.94001371757434
+Tabular-based,Gemini 2.5,38.933524726403654
+Tabular-based,Gemini 2.5,34.456351722044595
+Tabular-based,Gemini 2.5,45.060135494124424
+Tabular-based,Gemini 2.5,35.188044394580814
+Tabular-based,Gemini 2.5,28.83176849270594
+Tabular-based,Gemini 2.5,23.069516973848184
+Tabular-based,Gemini 2.5,30.124965946342574
+Tabular-based,Gemini 2.5,43.76085475785197
+Tabular-based,Gemini 2.5,42.126203826337466
+Tabular-based,Gemini 2.5,29.889797585271253
+Tabular-based,Gemini 2.5,33.72333886203365
+Tabular-based,Gemini 2.5,34.33610498202206
+Tabular-based,Gemini 2.5,31.281810507056875
+Tabular-based,Gemini 2.5,35.02020325619394
+Tabular-based,Gemini 2.5,29.917438957900433
+Tabular-based,Gemini 2.5,36.22834569424889
+Tabular-based,Gemini 2.5,34.57297210131262
+Tabular-based,Gemini 2.5,38.79615493855065
+Tabular-based,Gemini 2.5,29.537133975541213
+Tabular-based,Gemini 2.5,33.90341345800801
+Tabular-based,Gemini 2.5,40.752099991893616
+Tabular-based,Gemini 2.5,37.158406434951914
+Tabular-based,Gemini 2.5,39.4904554149733
+Tabular-based,Gemini 2.5,32.63453595762851
+Tabular-based,Gemini 2.5,33.30834995673443
+Tabular-based,Gemini 2.5,23.44733364147172
+Tabular-based,Gemini 2.5,27.27707172898432
+Tabular-based,Gemini 2.5,26.163933685584045
+Tabular-based,Gemini 2.5,25.433150650796073
+Tabular-based,Gemini 2.5,27.670710990662446
+Tabular-based,Gemini 2.5,39.14211105091617
+Tabular-based,Gemini 2.5,40.11397499525977
+Tabular-based,Gemini 2.5,28.59497357392218
+Tabular-based,Gemini 2.5,46.57863404788124
+Tabular-based,Gemini 2.5,38.49114809067802
+Tabular-based,Gemini 2.5,31.697559809987297
+Tabular-based,Gemini 2.5,27.80266538219235
+Tabular-based,Gemini 2.5,35.51898725316289
+Tabular-based,Gemini 2.5,24.85424764583106
+Tabular-based,Gemini 2.5,32.53068940820428
+Tabular-based,Gemini 2.5,29.98876699018627
+Tabular-based,Gemini 2.5,30.4302875560679
+Tabular-based,Gemini 2.5,28.140838843373036
+Tabular-based,Gemini 2.5,32.884877614344134
+Tabular-based,Gemini 2.5,32.33071520600906
+Tabular-based,Gemini 2.5,29.911469338616996
+Tabular-based,Gemini 2.5,31.492171128540253
+Tabular-based,Gemini 2.5,24.39841881933253
+Tabular-based,Gemini 2.5,29.473028060104173
+Tabular-based,Gemini 2.5,33.60436026951972
+Tabular-based,Gemini 2.5,24.27036821546593
+Tabular-based,Gemini 2.5,40.445956236775615
+Tabular-based,Gemini 2.5,35.013566058885544
+Tabular-based,Gemini 2.5,37.0129835842814
+Tabular-based,Gemini 2.5,30.158590921228907
+Tabular-based,Gemini 2.5,41.89940776226293
+Tabular-based,Gemini 2.5,36.05131335405361
+Tabular-based,Gemini 2.5,49.874442895826945
+Tabular-based,Gemini 2.5,33.574321052423876
+Tabular-based,Gemini 2.5,28.793560480985363
+Tabular-based,Gemini 2.5,30.65909289173137
+Tabular-based,Gemini 2.5,28.829651369422844
+Tabular-based,Gemini 2.5,24.378526851333945
+Tabular-based,Gemini 2.5,32.41646730899791
+Tabular-based,Gemini 2.5,23.99918237451737
+Tabular-based,Gemini 2.5,35.68180836501974
+Tabular-based,Gemini 2.5,36.452436484233175
+Tabular-based,Gemini 2.5,33.103492680104374
+Tabular-based,Gemini 2.5,35.74503883529008
+Tabular-based,Gemini 2.5,26.515418972933254
+Tabular-based,Gemini 2.5,31.914330274312505
+Tabular-based,Gemini 2.5,25.78240906076764
+Tabular-based,Gemini 2.5,29.51740127898919
+Tabular-based,Gemini 2.5,35.821497176378095
+Tabular-based,Gemini 2.5,37.174578092349904
+Tabular-based,Gemini 2.5,31.731252976146806
+Tabular-based,Gemini 2.5,49.49012795044419
+Tabular-based,Gemini 2.5,36.72473611962902
+Tabular-based,Gemini 2.5,33.66839625720971
+Bimodal,Gemini 2.5,36.240241499091475
+Bimodal,Gemini 2.5,50.42466749312776
+Bimodal,Gemini 2.5,36.72450846799013
+Bimodal,Gemini 2.5,32.69310694707465
+Bimodal,Gemini 2.5,27.66024979105052
+Bimodal,Gemini 2.5,25.851156456340416
+Bimodal,Gemini 2.5,42.14692901334624
+Bimodal,Gemini 2.5,37.880270470222825
+Bimodal,Gemini 2.5,33.03183552758797
+Bimodal,Gemini 2.5,32.76830248175845
+Bimodal,Gemini 2.5,41.843533274930515
+Bimodal,Gemini 2.5,31.068588132946985
+Bimodal,Gemini 2.5,37.58099463491761
+Bimodal,Gemini 2.5,35.54885086278842
+Bimodal,Gemini 2.5,39.21169777165179
+Bimodal,Gemini 2.5,22.401993106273483
+Bimodal,Gemini 2.5,40.269930120866384
+Bimodal,Gemini 2.5,37.010036290925306
+Bimodal,Gemini 2.5,30.22559318847314
+Bimodal,Gemini 2.5,37.389114798015584
+Bimodal,Gemini 2.5,31.113894728271735
+Bimodal,Gemini 2.5,49.960226868872475
+Bimodal,Gemini 2.5,42.48540172848125
+Bimodal,Gemini 2.5,49.294680823591264
+Bimodal,Gemini 2.5,38.08649191526709
+Bimodal,Gemini 2.5,33.34576667739424
+Bimodal,Gemini 2.5,32.00029022305295
+Bimodal,Gemini 2.5,39.85178009810287
+Bimodal,Gemini 2.5,31.060996548743528
+Bimodal,Gemini 2.5,40.75370317296018
+Bimodal,Gemini 2.5,31.586421150385984
+Bimodal,Gemini 2.5,35.1638658241702
+Bimodal,Gemini 2.5,31.544908617578375
+Bimodal,Gemini 2.5,35.5135678992952
+Bimodal,Gemini 2.5,32.722186099623364
+Bimodal,Gemini 2.5,38.981507539022736
+Bimodal,Gemini 2.5,33.79971129792783
+Bimodal,Gemini 2.5,28.649818937615787
+Bimodal,Gemini 2.5,32.02351510506768
+Bimodal,Gemini 2.5,35.760254344990905
+Bimodal,Gemini 2.5,38.25856498705627
+Bimodal,Gemini 2.5,36.825364731761915
+Bimodal,Gemini 2.5,34.60058014314955
+Bimodal,Gemini 2.5,36.207992800736676
+Bimodal,Gemini 2.5,34.946788306571655
+Bimodal,Gemini 2.5,35.63029192122376
+Bimodal,Gemini 2.5,30.669547541056904
+Bimodal,Gemini 2.5,48.557450831784855
+Bimodal,Gemini 2.5,42.92733696099868
+Bimodal,Gemini 2.5,29.218501235262426
+Bimodal,Gemini 2.5,36.751442440697424
+Bimodal,Gemini 2.5,40.92917983968541
+Bimodal,Gemini 2.5,43.352458018748855
+Bimodal,Gemini 2.5,45.74198767166368
+Bimodal,Gemini 2.5,33.1650401968309
+Bimodal,Gemini 2.5,36.4982056009827
+Bimodal,Gemini 2.5,39.98529847577817
+Bimodal,Gemini 2.5,33.01191676535295
+Bimodal,Gemini 2.5,27.498763364010053
+Bimodal,Gemini 2.5,27.717808937953492
+Bimodal,Gemini 2.5,28.46468749442601
+Bimodal,Gemini 2.5,26.641216191168816
+Bimodal,Gemini 2.5,32.75065082478625
+Bimodal,Gemini 2.5,39.29220801419722
+Bimodal,Gemini 2.5,36.42859634925939
+Bimodal,Gemini 2.5,25.669307087523375
+Bimodal,Gemini 2.5,32.58688299713222
+Bimodal,Gemini 2.5,42.18225462803493
+Bimodal,Gemini 2.5,24.459550890644476
+Bimodal,Gemini 2.5,36.2976328769908
+Bimodal,Gemini 2.5,35.97075376967555
+Bimodal,Gemini 2.5,28.565332504849078
+Bimodal,Gemini 2.5,43.595495995487326
+Bimodal,Gemini 2.5,41.29407796653634
+Bimodal,Gemini 2.5,26.37303183465329
+Bimodal,Gemini 2.5,34.14559027454485
+Bimodal,Gemini 2.5,36.398410234067335
+Bimodal,Gemini 2.5,35.73760817838355
+Bimodal,Gemini 2.5,30.977892108190417
+Bimodal,Gemini 2.5,37.4704298269624
+Bimodal,Gemini 2.5,35.43794424042165
+Bimodal,Gemini 2.5,29.501479719123868
+Bimodal,Gemini 2.5,35.50837794969594
+Bimodal,Gemini 2.5,29.772920483389107
+Bimodal,Gemini 2.5,28.137564896015636
+Bimodal,Gemini 2.5,28.09694732867703
+Bimodal,Gemini 2.5,32.96413715072898
+Bimodal,Gemini 2.5,40.1721466206103
+Bimodal,Gemini 2.5,52.48363634882712
+Bimodal,Gemini 2.5,30.6405757127764
+Bimodal,Gemini 2.5,23.461414192559406
+Bimodal,Gemini 2.5,29.923495380262718
+Bimodal,Gemini 2.5,31.3994974272123
+Bimodal,Gemini 2.5,27.75216767323007
+Bimodal,Gemini 2.5,38.279367780846805
+Bimodal,Gemini 2.5,40.194651141385215
+Bimodal,Gemini 2.5,32.70661785633062
